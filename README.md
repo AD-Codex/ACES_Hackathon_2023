@@ -1,5 +1,8 @@
 # Action Recognition using deep learning model
 
+![Screenshot from 2023-06-10 20-11-59](https://github.com/AD-Codex/ACES_Hackathon_2023/assets/126350818/54e1bf8e-0921-48c4-bec8-6e02bd048b3c)
+
+
 ## Model Creation
 
 1. Taking camera feed from the webcam or mobile camera
@@ -16,6 +19,11 @@
 4. MediaPipe
 5. OpenCV
 
+
+
+![Screenshot from 2023-06-17 22-07-19](https://github.com/AD-Codex/ACES_Hackathon_2023/assets/126350818/ff0e3b5f-b7aa-4485-bb89-1429598f88c6)
+
+![Logs_train](https://github.com/AD-Codex/ACES_Hackathon_2023/assets/126350818/1fce1c79-a7d9-44ae-9922-0db48e35dc27)
 
 ## Reference
 
