@@ -27,3 +27,4 @@
   1. https://conda.io/projects/conda/en/latest/index.html
   2. https://www.tensorflow.org/tutorials
   3. https://developers.google.com/mediapipe/solutions/guide
+  4. https://medium.com/@dclengacher/keras-lstm-recurrent-neural-networks-c1f5febde03d
